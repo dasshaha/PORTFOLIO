@@ -1,53 +1,56 @@
-# О себе
+About Me
+Hello! My name is Daria Tsurkina.
+Frontend Developer / Big Data & ML Student
+Moscow / Open to internships and remote work
 
-Привет! Меня зовут Дарья Цуркина.
-Frontend-разработчик / Студентка направления «Большие данные и ML»
-Москва / Готова к стажировке и удалённой работе
+Professional Profile
+I am a 3rd-year Bachelor's student majoring in Big Data and Machine Learning, with practical experience in frontend development.
+I create functional and visually appealing web interfaces. My key goal is to combine expertise in interface development with data analytics to build "smart" user-centric products.
 
-**Профессиональный профиль**
-Студентка 3 курса по специальности «Большие данные и машинное обучение» с практическим опытом в frontend-разработке. 
-Создаю функциональные и визуально привлекательные веб-интерфейсы. Моя ключевая цель — соединить экспертизу в разработке интерфейсов с аналитикой данных, создавая «умные» пользовательские продукты. 
-Имею опыт полного цикла разработки pet-проекта — от концепции и вёрстки до базовой бизнес-логики на JavaScript. 
-Активно изучаю современный стек (React, Node.js) для реализации более сложных Fullstack-решений.
+I have experience in the full development cycle of a pet project — from concept and layout to basic business logic in JavaScript.
+I am actively learning the modern tech stack (React, Node.js) to implement more complex full-stack solutions.
 
-Ключевой проект на данный момент: CRoute — генератор персонализированных туристических маршрутов
-Сервис для создания индивидуальных пеших маршрутов на основе предпочтений пользователя (город, стиль, активность, время, бюджет).
+Key Project: CRoute — Personalized Travel Route Generator
+A service for creating custom walking routes based on user preferences (city, style, activity, time, budget).
 
-Мой вклад (Fullstack на базовом уровне):
-Frontend: Полностью самостоятельно разработала интуитивный интерфейс из 4 страниц (главная, настройки, маршрут, статьи) с адаптивной вёрсткой на HTML5, CSS3 (Flexbox/Grid) и vanilla JavaScript.
-Логика: Реализовала механизм выбора параметров, их валидации и передачи данных между страницами через Local Storage.
-Интеграция: Подключила интерактивную карту (Leaflet.js) для визуализации маршрута с точками интереса и линиями пути.
-UX/UI: Продумала пользовательский поток, добавила интерактивные элементы (карусель статей, выбор опций), написала контент.
-Технологический стек: HTML5, CSS3, JavaScript (ES6+), Leaflet.js, Local Storage API, Figma (макетирование), Git.
-Что дальше: Планирую рефакторинг проекта на React для улучшения структуры кода, разработку backend-части на Node.js/Express и интеграцию AI для генерации уникальных маршрутов.
+My contribution (basic full‑stack level):
 
+Frontend: Independently developed an intuitive 4‑page interface (home, settings, route, articles) with responsive layout using HTML5, CSS3 (Flexbox/Grid) and vanilla JavaScript.
 
-**Образование**
+Logic: Implemented parameter selection, validation, and data transfer between pages via Local Storage.
 
-РГАУ-МСХА им. К.А. Тимирязева, Институт экономики и управления АПК
-Направление: Большие данные и машинное обучение (Бакалавриат)
-Период: 2023 — 2027 (3 курс)
-Ключевые дисциплины: Математическая статистика, Анализ данных, Программирование на Python, Методы машинного обучения.
+Integration: Connected an interactive map (Leaflet.js) to visualize the route with points of interest and path lines.
 
+UX/UI: Designed the user flow, added interactive elements (article carousel, option selectors), and created content.
 
-**Навыки**
+Tech stack: HTML5, CSS3, JavaScript (ES6+), Leaflet.js, Local Storage API, Figma (mockups), Git.
 
-Frontend: HTML5, CSS3 (Flexbox, Grid, адаптивная вёрстка), JavaScript (DOM, Events, Local Storage), основы React (в изучении).
-Инструменты & Методологии: Git, GitHub, Figma, Chrome DevTools.
-Data Science (базовый уровень): Python, Pandas, NumPy, понимание принципов работы ML-алгоритмов.
-Языки: Английский (Intermediate — читаю техническую документацию, стремлюсь к Upper-Intermediate), немецкий (базовый).
+Next steps: I plan to refactor the project to React for better code structure, develop the backend part with Node.js/Express, and integrate AI for generating unique routes.
 
+Education
+Russian State Agrarian University – Moscow Timiryazev Agricultural Academy
+Institute of Economics and Management in Agribusiness
+Field of study: Big Data and Machine Learning (Bachelor’s degree)
+Period: 2023 — 2027 (3rd year)
+Key subjects: Mathematical Statistics, Data Analysis, Python Programming, Machine Learning Methods.
 
-**Дополнительное обучение**
+Skills
+Frontend: HTML5, CSS3 (Flexbox, Grid, responsive layout), JavaScript (DOM, Events, Local Storage), React basics (learning).
 
-Прохождение онлайн-курсов по углублённому JavaScript и современным frontend-фреймворкам.
-Прохождение онлайн-курсов на образовательной платформе Stepik
-Самостоятельное изучение документации и best practices для веб-разработки.
+Tools & Methodologies: Git, GitHub, Figma, Chrome DevTools.
 
-![мое фото](я.jpg)
+Data Science (basic level): Python, Pandas, NumPy, understanding of ML algorithm principles.
 
+Languages: English (Intermediate – read technical documentation, aiming for Upper‑Intermediate), German (basic).
 
-**Связь со мной:**
+Additional Training
+Taking online courses on advanced JavaScript and modern frontend frameworks.
 
-* telegram [@YuriKo_86]
-* email [thurkina1@gmail.com]
+Completing online courses on the Stepik educational platform.
+
+Self‑studying documentation and best practices for web development.
+
+Contact Me
+Telegram: [@YuriKo_86]
+
+Email: thurkina1@gmail.com
