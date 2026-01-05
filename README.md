@@ -1,4 +1,4 @@
-#About Me
+# About Me
 
 Hello! My name is Daria Tsurkina.
 Frontend Developer / Big Data & ML Student
@@ -11,7 +11,7 @@ I create functional and visually appealing web interfaces. My key goal is to com
 I have experience in the full development cycle of a pet project — from concept and layout to basic business logic in JavaScript.
 I am actively learning the modern tech stack (React, Node.js) to implement more complex full-stack solutions.
 
-**Key Project: CRoute — Personalized Travel Route Generator**
+**Key Project: CRoute — Personalized Travel Route Generator** 
 A service for creating custom walking routes based on user preferences (city, style, activity, time, budget).
 
 My contribution (basic full‑stack level):
@@ -39,6 +39,8 @@ Languages: English (Intermediate – read technical documentation, aiming for Up
 Taking online courses on advanced JavaScript and modern frontend frameworks.
 Completing online courses on the Stepik educational platform.
 Self‑studying documentation and best practices for web development.
+
+![My photo](я.jpg){ width="200" }
 
 *Contact Me*
 Telegram: [@YuriKo_86]
