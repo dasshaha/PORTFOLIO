@@ -3,6 +3,7 @@
 Hello! My name is **Daria Tsurkina**.  
 **Frontend Developer** / **Big Data & ML Student**  
 **Moscow** / Open to internships and remote work  
+<img src="я.jpg" alt="My photo" width="200" style="border-radius: 8px; margin: 20px 0;">
 
 
 
